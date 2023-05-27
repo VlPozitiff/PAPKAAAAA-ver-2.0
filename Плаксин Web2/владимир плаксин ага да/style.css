@@ -1,0 +1,85 @@
+body{
+    background: url("дискеты.png");
+    background-size: cover;
+    width: 1000px;
+    height: 800px;
+}
+
+.div1{
+margin-top: -145px;
+margin-left: 1585px;
+
+background-color: rgb(0, 255, 0);
+width: 300px;
+height: 520px;
+color: rgb(54, 38, 38);
+text-align: start;
+font-family: Gill Sans;
+font-size: 50px;
+}
+.div2{
+    margin-top: -520px;
+    margin-right: 700px;
+    margin-left: 0px;
+    background-color: rgb(255, 0, 234);
+    width: 300px;
+    height: 370px;
+    color: rgb(229, 255, 0);
+    text-align: right;
+    font-family: fantasy;
+    font-size: medium;
+    font-variant-position: super;
+    
+}
+    .div3{
+        margin-left: 1585px;
+        margin-top: 15px;
+        
+        background-color: rgb(0, 0, 0);
+        width: 300px;
+        height: 230px;
+        color: rgb(95, 133, 177);
+        text-align: center;
+        font-size: xx-large;
+        font-stretch: ultra-condensed;
+        font-family: cursive;
+        font-size: 50px;
+        }
+.div4{
+    margin-top: 15px;
+    margin-left: 0px;
+    margin-bottom: 15px;
+    width: 300px;
+    height: 500px;
+    color: brown;
+    background-color: crimson;
+    text-align: center;
+    font-size: 80px ;
+    font-family: fantasy;
+}
+.div55{
+    margin-left: 1585px;
+    margin-top: -870px;
+}
+.div666{
+    margin-top: 15px;
+    margin-left: 1585px;
+    margin-bottom: 15px;
+    width: 300px;
+    height: 400px;
+    color: rgb(248, 114, 25);
+    background-color: rgb(63, 145, 113);
+    text-align: center;
+    font-size: 40px ;
+    font-family: fantasy;
+}
+.tiokgf:hover{
+    color: cadetblue;
+}
+.zombe:hover{
+    color: gold;
+}
+.spanila{
+    margin-left: 75%;
+ 
+}
